@@ -15,10 +15,10 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/Wann-Xd/Simpil-Rebon
+$ git clone https://github.com/Wann-Xd/Simple
 
 $ cd Simpil-Rebon
 
 $ git pull
 
-$ python Run.py
+$ python run1.py
